@@ -1,0 +1,22 @@
+body {
+  background-color: blue;
+  text-align: center;
+  background-image: url("https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/5/16/0/FNK_WATERMELON-PIG-H_s4x3.jpg.rend.hgtvcom.826.620.suffix/1526483893553.jpeg");
+}
+
+.css-classes {
+  background-color: lightgray;
+}
+
+.css-classes h1 {
+  font-size: 18px;
+}
+
+.css-classes p {
+  font-size: 16px;
+  color: green;
+}
+
+.css-classes li {
+  color: navy;
+}

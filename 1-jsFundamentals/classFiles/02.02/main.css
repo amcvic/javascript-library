@@ -1,0 +1,43 @@
+body {
+  background-image: url("https://images.pexels.com/photos/21389/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500");
+}
+
+ul {
+  list-style-type: circle;
+}
+
+.resources {
+  background: rgb(157, 157, 157);
+  background: rgba(157, 157, 157, 0.5);
+  border: 1px solid #FBFBFB;
+  padding: 50px;
+}
+
+.resources h2 {
+  font-family: 'Dosis', sans-serif;
+  color: #FBFBFB;
+  font-weight: bold;
+}
+
+.resources p, ul {
+  font-family: 'Economica', sans-serif;
+  color: #383B3F;
+}
+
+.challenges {
+  background: rgb(157, 157, 157);
+  background: rgba(157, 157, 157, 0.5);
+  border: 1px solid #FBFBFB;
+  padding: 50px;
+}
+
+.challenges h2 {
+  font-family: 'Dosis', sans-serif;
+  color: #FBFBFB;
+  font-weight: bold;
+}
+
+.challenges p, ul {
+  font-family: 'Economica', sans-serif;
+  color: #383B3F;
+}
